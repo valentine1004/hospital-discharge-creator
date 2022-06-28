@@ -1,5 +1,0 @@
-[submodule "front"]
-
-        path = front
-        url = https://github.com/valentine1004/hospital-discharge-creator
-        ignore = dirty
